@@ -1,10 +1,10 @@
 # CloutContracts (CCS)
 
-## > About
+### About
 CloutContracts is a smart contracts platform for influencers and creators. Its native token, $CCS 
 
-## > For Developers
+### For Developers
 
-## > Some Applications
+### Some Applications
 
-## > Integration Possibilities
+### Integration Possibilities
